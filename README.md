@@ -43,6 +43,11 @@ git clone https://github.com/your-username/gmail-clone-backend.git
 **POST /api/emails/send**: Send an email (requires authentication).
 **GET /api/emails/:folder**: Get emails from a specific folder (Inbox, Sent, Trash) (requires authentication).
 
+## Render Deployment
+
+The backend is deployed on Render.
+https://gmail-clone-backend-6eqs.onrender.com
+
 ## Development Process
 
 **Initial Setup**: Set up the backend using Node.js, Express, and MongoDB.
